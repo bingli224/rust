@@ -1,0 +1,7 @@
+[package]
+name = "timeliner"
+version = "0.1.0"
+authors = ["Supot Chainiramitkul <bingli224@gmail.com>"]
+edition = "2018"
+
+[dependencies]
